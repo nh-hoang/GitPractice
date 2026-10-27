@@ -1,4 +1,4 @@
-\# Git Practice
+# Git Practice
 
 Họ tên: Nguyen Huy Hoang
 
